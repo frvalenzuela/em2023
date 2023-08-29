@@ -2,7 +2,7 @@ from distutils.core import setup
 setup(
   name = 'em2023',         # How you named your package folder (MyLib)
   packages = ['em2023'],   # Chose the same as "name"
-  version = '1.0',      # Start with a small number and increase it with every change you make
+  version = '3.2',      # Start with a small number and increase it with every change you make
   license='MIT',        # Chose a license from here: https://help.github.com/articles/licensing-a-repository
   description = 'Libreria para curso Escuela Militar de Chile 2023',   # Give a short description about your library
   author = 'Felipe Valenzuela',                   # Type in your name
